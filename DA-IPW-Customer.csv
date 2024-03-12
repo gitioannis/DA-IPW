@@ -1,0 +1,31 @@
+Customer ID,Age,Gender,Subscription Plan,UsageFrequency,CustomerSupportInteractions,MonthlySpend,ChurnStatus
+1,18,Male,Basic,13,5,22,yes
+2,27,Male,Standard,23,15,14,no
+3,23,Male,Basic,25,10,18,no
+4,22,Not Disclosed,Basic,30,12,28,no
+5,20,Not Disclosed,Standard,20,8,29,yes
+6,18,Not Disclosed,Basic,13,5,24,yes
+7,22,Not Disclosed,Standard,25,10,22,yes
+8,25,Female,Standard,23,15,24,yes
+9,27,Not Disclosed,Standard,23,15,24,no
+10,23,Not Disclosed,Premium,30,12,38,no
+11,25,Not Disclosed,Premium,23,15,50,no
+12,23,Not Disclosed,Standard,25,10,34,yes
+13,27,Female,Basic,26,17,14,yes
+14,20,Male,Standard,20,8,25,no
+15,22,Male,Basic,25,10,20,yes
+16,18,Female,Basic,18,7,22,no
+17,27,Not Disclosed,Basic,26,17,30,yes
+18,23,Not Disclosed,Basic,25,10,22,no
+19,20,Female,Basic,25,10,25,yes
+20,22,Female,Basic,30,12,20,yes
+21,18,Not Disclosed,Basic,13,5,30,no
+22,22,Not Disclosed,Premium,25,10,25,yes
+23,18,Not Disclosed,Premium,18,7,32,yes
+24,25,Not Disclosed,Basic,20,13,28,no
+25,25,Not Disclosed,Premium,20,13,32,yes
+26,23,Female,Premium,30,12,18,no
+27,25,Male,Standard,20,13,24,no
+28,20,Not Disclosed,Basic,25,10,38,yes
+29,27,Not Disclosed,Standard,23,15,18,yes
+30,20,Not Disclosed,Basic,20,8,27,no
